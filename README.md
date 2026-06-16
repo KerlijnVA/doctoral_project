@@ -3,7 +3,7 @@ R code and analysis as part of the doctoral thesis of Kerlijn Van Assche
 
 # Overview
 This repository contains the R code used in my doctoral research on "Leveraging online news media data to investigate poor-quality medical products. Insights from the COVID-19 pandemic."
-The code shared is specifically linked to "Chapter 6: pandemic pressure and product quality. A time series perspective". 
+The code shared is specifically linked to "**Chapter 6: pandemic pressure and product quality. A time series perspective**". 
 For more explanation on the data and methods used and for interpretation of the results, consult the thesis manuscript. 
 
   Aim of chapter 6: To examine the temporal association between new COVID-19 cases and poor-quality medical product (PQ-MP) events and to identify whether increases in COVID-19 cases precede increases in PQ-MP events. 
