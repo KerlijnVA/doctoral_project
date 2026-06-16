@@ -1,0 +1,620 @@
+year_month,country_names_HM,alpha_3_code,geoname_id_final,cv19_category_final,cv19_quality_final,id_curated
+2021-06-01,India,IND,1270770,Medicines,Falsified,1086758
+2021-05-01,India,IND,1267701,Medicines,Falsified,1062671
+2021-05-01,India,IND,1278629,Medicines,Falsified,1106884
+2020-02-01,India,IND,1254788,Medicines,Substandard,455388
+2020-09-01,India,IND,1276988,Vaccines,Falsified,742841
+2020-03-01,India,IND,1259229,Sanitisers & disinfectants,Falsified,483978
+2021-05-01,India,IND,1270260,Medicines,Diverted/Unregistered,1048893
+2021-06-01,India,IND,1259223,Medicines,Falsified,1105491
+2020-03-01,India,IND,10896943,Sanitisers & disinfectants,Falsified,493688
+2021-05-01,India,IND,1265869,Medicines,Diverted/Unregistered,1071414
+2021-05-01,India,IND,1255053,Medicines,Diverted/Unregistered,1086409
+2021-06-01,India,IND,1278149,Medicines,Falsified,1086758
+2021-08-01,India,IND,1269750,Ventilation & oxygenation equipment and consumables,Falsified,1172925
+2021-05-01,India,IND,1279233,Medicines,Falsified,1082548
+2021-05-01,India,IND,1267701,Medicines,Diverted/Unregistered,1062671
+2020-08-01,India,IND,1279259,Medicines,Diverted/Unregistered,678201
+2021-06-01,India,IND,9072781,Medicines,Falsified,1117967
+2020-03-01,India,IND,1264418,Sanitisers & disinfectants,Falsified,504810
+2021-08-01,India,IND,1259229,Medicines,Diverted/Unregistered,1185560
+2021-06-01,India,IND,1273780,Medicines,Falsified,1095707
+2020-09-01,India,IND,7279746,Diagnostics,Falsified,746390
+2021-05-01,India,IND,1445654,Medicines,Falsified,1050679
+2020-02-01,India,IND,1267254,Medicines,Substandard,455388
+2021-06-01,India,IND,6954929,Medicines,Falsified,1091779
+2020-06-01,India,IND,7701427,Personal Protective Equipment,Substandard,594003
+2020-02-01,India,IND,1255053,Medicines,Substandard,455388
+2020-08-01,India,IND,1279233,Personal Protective Equipment,Falsified,682741
+2021-06-01,India,IND,1264418,Medicines,Falsified,1086758
+2020-03-01,India,IND,1270644,Sanitisers & disinfectants,Falsified,483776
+2021-06-01,India,IND,1267701,Medicines,Falsified,1086758
+2020-06-01,India,IND,1273294,Sanitisers & disinfectants,Substandard or Falsified,622830
+2021-05-01,India,IND,1267995,Medicines,Falsified,1070852
+2020-08-01,India,IND,1278629,Sanitisers & disinfectants,Falsified,685390
+2020-07-01,India,IND,7626690,Personal Protective Equipment,Substandard,651029
+2021-05-01,India,IND,1261481,Medicines,Falsified,1086629
+2020-09-01,India,IND,1273865,Personal Protective Equipment,Substandard,715991
+2021-04-01,India,IND,1258342,Medicines,Falsified,1038869
+2021-08-01,India,IND,1269750,Medicines,Substandard,1177368
+2021-05-01,India,IND,1261481,Personal Protective Equipment,Falsified,1086629
+2020-03-01,India,IND,1269843,Sanitisers & disinfectants,Falsified,489274
+2021-06-01,India,IND,1255349,Medicines,Falsified,1093374
+2021-12-01,India,IND,1269750,Sanitisers & disinfectants,Substandard or Falsified,1313442
+2021-04-01,India,IND,1261258,Medicines,Falsified,1041847
+2020-05-01,India,IND,1270770,Ventilation & oxygenation equipment and consumables,Falsified,575647
+2020-12-01,India,IND,1262083,Medicines,Substandard,848258
+2021-08-01,India,IND,1261500,Vaccines,Diverted/Unregistered,1183740
+2022-01-01,India,IND,1269750,Medicines,Substandard,1377176
+2021-07-01,India,IND,1262180,Medicines,Substandard,1156719
+2021-04-01,India,IND,1273294,Ventilation & oxygenation equipment and consumables,Falsified,1080042
+2020-03-01,India,IND,1275339,Sanitisers & disinfectants,Falsified,506687
+2020-03-01,India,IND,1273294,Sanitisers & disinfectants,Falsified,492031
+2020-06-01,India,IND,9915464,Sanitisers & disinfectants,Falsified,616113
+2021-06-01,India,IND,1273294,Medicines,Falsified,1107417
+2021-04-01,India,IND,1277091,Medicines,Falsified,1025236
+2020-06-01,India,IND,1269750,Sanitisers & disinfectants,Substandard,609090
+2021-07-01,India,IND,1262180,Medicines,Diverted/Unregistered,1156719
+2020-07-01,India,IND,1255364,Medicines,Falsified,667788
+2020-06-01,India,IND,1259223,Sanitisers & disinfectants,Substandard,621266
+2021-08-01,India,IND,1444366,Sanitisers & disinfectants,Substandard,1164808
+2021-05-01,India,IND,1273294,Ventilation & oxygenation equipment and consumables,Falsified,1050037
+2021-05-01,India,IND,1276239,Medicines,Falsified,1050572
+2020-02-01,India,IND,1267701,Medicines,Substandard,455388
+2020-03-01,India,IND,1278872,Vaccines,Falsified,487568
+2021-01-01,India,IND,1267254,Diagnostics,Substandard,918805
+2021-04-01,India,IND,1275339,Medicines,Falsified,1052017
+2020-03-01,India,IND,1259229,Sanitisers & disinfectants,Falsified,488498
+2020-04-01,India,IND,1260730,Sanitisers & disinfectants,Falsified,517171
+2021-07-01,India,IND,1278719,Medicines,Falsified,1156719
+2021-05-01,India,IND,1264542,Medicines,Falsified,1053371
+2020-04-01,India,IND,1269843,Sanitisers & disinfectants,Falsified,521193
+2020-12-01,India,IND,7279742,Sanitisers & disinfectants,Substandard,848258
+2022-03-01,India,IND,1269750,Medicines,Falsified,1423472
+2020-08-01,India,IND,1264418,Sanitisers & disinfectants,Substandard,723565
+2020-06-01,India,IND,1264728,Sanitisers & disinfectants,Falsified,607813
+2020-03-01,India,IND,1265873,Sanitisers & disinfectants,Falsified,493218
+2021-04-01,India,IND,1255053,Medicines,Diverted/Unregistered,1058645
+2021-03-01,India,IND,1275817,Diagnostics,Substandard,962427
+2021-05-01,India,IND,1274336,Ventilation & oxygenation equipment and consumables,Substandard,1059143
+2021-04-01,India,IND,1279233,Medicines,Falsified,1041435
+2020-07-01,India,IND,1278710,Personal Protective Equipment,Substandard,633611
+2021-05-01,India,IND,1269750,Medicines,Diverted/Unregistered,1052806
+2021-05-01,India,IND,1279311,Medicines,Diverted/Unregistered,1062448
+2021-05-01,India,IND,1269633,Medicines,Falsified,1092131
+2020-08-01,India,IND,1269515,Medicines,Diverted/Unregistered,678201
+2020-10-01,India,IND,1273865,Personal Protective Equipment,Falsified,760491
+2020-01-01,India,IND,1275339,Medicines,Diverted/Unregistered,435956
+2021-06-01,India,IND,1275339,Personal Protective Equipment,Falsified,1086265
+2020-03-01,India,IND,1275817,Sanitisers & disinfectants,Falsified,505033
+2020-06-01,India,IND,1267254,Sanitisers & disinfectants,Substandard,593218
+2021-06-01,India,IND,1268085,Medicines,Falsified,1104799
+2021-05-01,India,IND,1266928,Medicines,Diverted/Unregistered,1066447
+2021-05-01,India,IND,1269750,Medicines,Falsified,1066627
+2020-07-01,India,IND,1259223,Sanitisers & disinfectants,Substandard or Falsified,646587
+2021-08-01,India,IND,1269771,Medicines,Falsified,1163133
+2021-07-01,India,IND,12684057,Medicines,Falsified,1156719
+2021-04-01,India,IND,1269750,Medicines,Falsified,1025572
+2020-08-01,India,IND,1269750,Sanitisers & disinfectants,Substandard or Falsified,710496
+2021-05-01,India,IND,1277333,Vaccines,Diverted/Unregistered,1068658
+2020-07-01,India,IND,10800614,Medicines,Diverted/Unregistered,667788
+2021-05-01,India,IND,1279233,Medicines,Diverted/Unregistered,1068983
+2021-05-01,India,IND,1275339,Personal Protective Equipment,Falsified,1071075
+2021-08-01,India,IND,1253405,Vaccines,Falsified,1171346
+2021-05-01,India,IND,1254788,Medicines,Falsified,1050679
+2020-07-01,India,IND,1255364,Medicines,Falsified,653142
+2020-06-01,India,IND,1261481,Medicines,Substandard,600118
+2020-03-01,India,IND,1278149,Sanitisers & disinfectants,Substandard or Falsified,488219
+2021-05-01,India,IND,7279746,Medicines,Falsified,1052638
+2020-09-01,India,IND,1275339,Medicines,Falsified,748338
+2021-05-01,India,IND,1277333,Medicines,Diverted/Unregistered,1067864
+2021-05-01,India,IND,8659036,Medicines,Falsified,1077726
+2021-04-01,India,IND,1270642,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1034035
+2020-10-01,India,IND,1275339,Personal Protective Equipment,Substandard,787164
+2020-10-01,India,IND,1271308,Personal Protective Equipment,Falsified,787164
+2021-05-01,India,IND,1269750,Medicines,Substandard,1083074
+2021-04-01,India,IND,1269843,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1038476
+2022-02-01,India,IND,1265869,Diagnostics,Falsified,1388981
+2020-08-01,India,IND,1264418,Medicines,Diverted/Unregistered,723565
+2021-04-01,India,IND,1275339,Medicines,Falsified,1038668
+2020-08-01,India,IND,1275004,Sanitisers & disinfectants,Falsified,672035
+2021-05-01,India,IND,1269750,Ventilation & oxygenation equipment and consumables,Substandard,1060109
+2020-09-01,India,IND,1269750,Sanitisers & disinfectants,Substandard,727310
+2021-05-01,India,IND,1269750,Sanitisers & disinfectants,Substandard,1083074
+2021-06-01,India,IND,1267701,Sanitisers & disinfectants,Substandard,1097480
+2021-05-01,India,IND,1278995,Medicines,Falsified,1084089
+2021-04-01,India,IND,1266014,Medicines,Falsified,1041873
+2020-03-01,India,IND,1269750,Personal Protective Equipment,Falsified,505932
+2021-05-01,India,IND,1273800,Vaccines,Diverted/Unregistered,1063860
+2022-02-01,India,IND,1253405,Vaccines,Falsified,1390161
+2021-07-01,India,IND,1259229,Sanitisers & disinfectants,Falsified,1155514
+2021-12-01,India,IND,1269750,Medicines,Substandard,1330633
+2021-05-01,India,IND,1256287,Vaccines,Diverted/Unregistered,1086365
+2021-07-01,India,IND,1267254,Sanitisers & disinfectants,Substandard or Falsified,1130689
+2021-06-01,India,IND,1255364,Medicines,Falsified,1086529
+2020-09-01,India,IND,1264418,Medicines,Substandard,739155
+2021-04-01,India,IND,1270260,Medicines,Falsified,1045813
+2021-06-01,India,IND,1275004,Vaccines,Falsified,1110971
+2020-03-01,India,IND,9748040,Sanitisers & disinfectants,Falsified,482314
+2021-07-01,India,IND,1256436,Medicines,Falsified,1156719
+2021-05-01,India,IND,1264733,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1047953
+2021-06-01,India,IND,1259223,Vaccines,Diverted/Unregistered,1086967
+2021-04-01,India,IND,10512146,Medicines,Falsified,1028445
+2021-06-01,India,IND,1263214,Medicines,Falsified,1089601
+2020-06-01,India,IND,1274746,Sanitisers & disinfectants,Substandard,599697
+2020-06-01,India,IND,1269750,Medicines,Diverted/Unregistered,588095
+2020-07-01,India,IND,1279233,Medicines,Falsified,653142
+2021-02-01,India,IND,1271715,Medicines,Falsified,951239
+2021-05-01,India,IND,1269743,Medicines,Falsified,1061323
+2021-09-01,India,IND,1270101,Vaccines,Falsified,1215054
+2021-04-01,India,IND,1257721,Medicines,Falsified,1031973
+2021-04-01,India,IND,1264733,Medicines,Falsified,1033631
+2021-05-01,India,IND,1273294,Medicines,Diverted/Unregistered,1053504
+2021-05-01,India,IND,7279746,Medicines,Substandard or Falsified,1077874
+2020-08-01,India,IND,1269750,Medicines,Substandard,708562
+2020-07-01,India,IND,1255364,Medicines,Diverted/Unregistered,667788
+2021-05-01,India,IND,1269750,Sanitisers & disinfectants,Falsified,1079370
+2021-07-01,India,IND,1269771,Diagnostics,Diverted/Unregistered,1134624
+2020-05-01,India,IND,1261481,Diagnostics,Falsified,555466
+2021-05-01,India,IND,1264418,Medicines,Falsified,1059047
+2022-02-01,India,IND,1253405,Diagnostics,Falsified,1390161
+2020-11-01,India,IND,1271308,Personal Protective Equipment,Falsified,798410
+2021-05-01,India,IND,1269743,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1061323
+2021-04-01,India,IND,7279746,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1041792
+2021-07-01,India,IND,10567584,Vaccines,Diverted/Unregistered,1143378
+2021-06-01,India,IND,1268977,Medicines,Falsified,1097696
+2020-06-01,India,IND,1273294,Personal Protective Equipment,Substandard or Falsified,590876
+2021-06-01,India,IND,1267701,Personal Protective Equipment,Falsified,1097480
+2021-06-01,India,IND,1268085,Medicines,Diverted/Unregistered,1104799
+2020-02-01,India,IND,1269750,Medicines,Substandard or Falsified,456231
+2020-11-01,India,IND,1258899,Diagnostics,Substandard,810419
+2021-07-01,India,IND,1274987,Sanitisers & disinfectants,Substandard or Falsified,1130689
+2021-05-01,India,IND,1255364,Medicines,Falsified,1044188
+2021-06-01,India,IND,1269515,Medicines,Falsified,1104076
+2021-05-01,India,IND,1273294,Medicines,Falsified,1044625
+2022-02-01,India,IND,1270101,Medicines,Substandard,1397229
+2020-02-01,India,IND,1253626,Medicines,Substandard,455388
+2021-04-01,India,IND,1264527,Sanitisers & disinfectants,Substandard,1024996
+2020-07-01,India,IND,1269750,Medicines,Substandard,658934
+2021-06-01,India,IND,1269843,Medicines,Diverted/Unregistered,1109134
+2020-05-01,India,IND,8659036,Sanitisers & disinfectants,Substandard,575646
+2021-05-01,India,IND,1277333,Medicines,Diverted/Unregistered,1068658
+2021-04-01,India,IND,1262322,Medicines,Falsified,1027311
+2022-01-01,India,IND,1269750,Medicines,Falsified,1361171
+2021-06-01,India,IND,1275004,Medicines,Diverted/Unregistered,1089047
+2020-12-01,India,IND,1268085,Sanitisers & disinfectants,Substandard,848258
+2022-03-01,India,IND,1269750,Medicines,Substandard,1431500
+2021-04-01,India,IND,1275339,Medicines,Falsified,1030140
+2020-06-01,India,IND,1269750,Personal Protective Equipment,Falsified,600447
+2020-12-01,India,IND,1270583,Medicines,Falsified,843934
+2021-07-01,India,IND,1279259,Personal Protective Equipment,Falsified,1121782
+2020-09-01,India,IND,1273294,Personal Protective Equipment,Falsified,748680
+2021-04-01,India,IND,1269750,Medicines,Falsified,1032835
+2021-05-01,India,IND,1255364,Sanitisers & disinfectants,Falsified,1053408
+2020-11-01,India,IND,1267701,Diagnostics,Substandard,810419
+2021-05-01,India,IND,1253894,Vaccines,Diverted/Unregistered,1078285
+2020-07-01,India,IND,1275339,Personal Protective Equipment,Falsified,667990
+2021-05-01,India,IND,1269750,Sanitisers & disinfectants,Substandard,1079370
+2020-02-01,India,IND,1259827,Medicines,Substandard,449695
+2020-02-01,India,IND,1278629,Medicines,Substandard,455388
+2020-06-01,India,IND,1269750,Medicines,Substandard,609090
+2022-02-01,India,IND,1279259,Medicines,Substandard,1389697
+2020-08-01,India,IND,1273294,Personal Protective Equipment,Falsified,676025
+2020-06-01,India,IND,1269750,Personal Protective Equipment,Diverted/Unregistered,588095
+2020-08-01,India,IND,1275339,Medicines,Diverted/Unregistered,676168
+2020-08-01,India,IND,1264728,Sanitisers & disinfectants,Falsified,676714
+2020-07-01,India,IND,1254788,Personal Protective Equipment,Substandard or Falsified,637145
+2021-01-01,India,IND,8618019,Sanitisers & disinfectants,Falsified,881124
+2020-11-01,India,IND,1259224,Diagnostics,Substandard,810419
+2020-09-01,India,IND,1269515,Diagnostics,Substandard or Falsified,729474
+2021-06-01,India,IND,1270351,Medicines,Falsified,1100164
+2020-06-01,India,IND,1269750,Diagnostics,Diverted/Unregistered,588095
+2021-05-01,India,IND,1279233,Medicines,Diverted/Unregistered,1076472
+2021-05-01,India,IND,1271026,Medicines,Falsified,1066430
+2021-07-01,India,IND,1269750,Medicines,Substandard,1159752
+2021-05-01,India,IND,1269743,Medicines,Falsified,1066516
+2021-05-01,India,IND,1279017,Vaccines,Substandard or Falsified,1074206
+2020-08-01,India,IND,1269750,Sanitisers & disinfectants,Substandard,708562
+2021-05-01,India,IND,1273294,Medicines,Diverted/Unregistered,1047797
+2021-05-01,India,IND,1277333,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1067864
+2021-06-01,India,IND,1269843,Medicines,Diverted/Unregistered,1083769
+2021-04-01,India,IND,1269515,Vaccines,Diverted/Unregistered,1020922
+2021-05-01,India,IND,1254444,Medicines,Falsified,1065122
+2020-03-01,India,IND,1273294,Personal Protective Equipment,Falsified,492031
+2021-05-01,India,IND,9072781,Medicines,Falsified,1078649
+2020-06-01,India,IND,8224306,Sanitisers & disinfectants,Substandard,615378
+2020-08-01,India,IND,1264418,Personal Protective Equipment,Substandard,723565
+2021-07-01,India,IND,1267254,Personal Protective Equipment,Substandard or Falsified,1130689
+2021-05-01,India,IND,1270260,Medicines,Falsified,1073890
+2021-04-01,India,IND,1279233,Medicines,Falsified,1040731
+2021-04-01,India,IND,1268907,Vaccines,Diverted/Unregistered,1031435
+2021-05-01,India,IND,1261481,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1092783
+2021-05-01,India,IND,1267995,Medicines,Falsified,1077712
+2021-05-01,India,IND,1279233,Medicines,Falsified,1076472
+2022-01-01,India,IND,1269750,Medicines,Falsified,1357205
+2020-09-01,India,IND,1269750,Medicines,Substandard,727310
+2021-06-01,India,IND,1267701,Sanitisers & disinfectants,Falsified,1097480
+2021-07-01,India,IND,1255783,Vaccines,Falsified,1151752
+2021-08-01,India,IND,1269750,Vaccines,Falsified,1179721
+2021-02-01,India,IND,1269843,Vaccines,Falsified,940683
+2020-08-01,India,IND,1275339,Personal Protective Equipment,Falsified,698070
+2021-04-01,India,IND,1269743,Medicines,Falsified,1022987
+2021-05-01,India,IND,1262775,Medicines,Falsified,1044188
+2020-10-01,India,IND,1258847,Medicines,Diverted/Unregistered,755217
+2021-05-01,India,IND,1253184,Sanitisers & disinfectants,Falsified,1082549
+2020-06-01,India,IND,1278629,Personal Protective Equipment,Substandard,611732
+2021-05-01,India,IND,1255364,Medicines,Falsified,1082548
+2021-04-01,India,IND,6954929,Ventilation & oxygenation equipment and consumables,Falsified,1041792
+2021-05-01,India,IND,1274746,Vaccines,Diverted/Unregistered,1078624
+2020-06-01,India,IND,1270752,Sanitisers & disinfectants,Substandard,615378
+2021-12-01,India,IND,1269750,Medicines,Falsified,1313442
+2022-02-01,India,IND,1279259,Medicines,Falsified,1389697
+2021-09-01,India,IND,1269750,Medicines,Substandard,1212321
+2021-05-01,India,IND,1273294,Medicines,Falsified,1044723
+2021-06-01,India,IND,1275339,Vaccines,Falsified,1101158
+2021-05-01,India,IND,1258980,Sanitisers & disinfectants,Substandard,1051442
+2021-06-01,India,IND,1273780,Medicines,Falsified,1096845
+2021-06-01,India,IND,8335144,Sanitisers & disinfectants,Diverted/Unregistered,1100774
+2021-05-01,India,IND,1270770,Medicines,Falsified,1045885
+2021-04-01,India,IND,1275540,Medicines,Falsified,1066963
+2022-02-01,India,IND,1265869,Sanitisers & disinfectants,Falsified,1388981
+2021-05-01,India,IND,1279233,Medicines,Falsified,1044188
+2021-04-01,India,IND,1279233,Medicines,Falsified,1041604
+2021-06-01,India,IND,1273294,Medicines,Falsified,1098779
+2020-06-01,India,IND,1262321,Sanitisers & disinfectants,Substandard,615378
+2021-05-01,India,IND,1269743,Medicines,Diverted/Unregistered,1066727
+2021-02-01,India,IND,1275947,Medicines,Falsified,953850
+2021-11-01,India,IND,1253747,Vaccines,Diverted/Unregistered,1284769
+2021-05-01,India,IND,1269633,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1092131
+2020-06-01,India,IND,1278629,Sanitisers & disinfectants,Substandard or Falsified,611732
+2021-05-01,India,IND,1273800,Medicines,Diverted/Unregistered,1063566
+2021-05-01,India,IND,1264733,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1066368
+2021-05-01,India,IND,1258847,Medicines,Falsified,1082548
+2021-12-01,India,IND,1253626,Medicines,Substandard,1329385
+2021-10-01,India,IND,1268295,Medicines,Diverted/Unregistered,1251452
+2021-06-01,India,IND,1270770,Medicines,Falsified,1100945
+2021-05-01,India,IND,1276032,Medicines,Falsified,1082548
+2021-03-01,India,IND,1273802,Vaccines,Falsified,978169
+2021-05-01,India,IND,1261913,Medicines,Falsified,1052184
+2020-05-01,United States,USA,5128581,Diagnostics,Falsified,566171
+2020-07-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,671111
+2020-05-01,United States,USA,5110629,Personal Protective Equipment,Diverted/Unregistered,566171
+2020-09-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,745249
+2020-03-01,United States,USA,4180439,Diagnostics,Substandard,471711
+2020-06-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,593883
+2020-06-01,United States,USA,6252001,Medicines,Diverted/Unregistered,593883
+2020-02-01,United States,USA,6252001,Personal Protective Equipment,Substandard,458225
+2021-08-01,United States,USA,4177965,Personal Protective Equipment,Falsified,1167460
+2020-03-01,United States,USA,5368361,Diagnostics,Falsified,485819
+2020-09-01,United States,USA,4930956,Personal Protective Equipment,Falsified,732067
+2020-09-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,732787
+2021-05-01,United States,USA,4164181,Ventilation & oxygenation equipment and consumables,Diverted/Unregistered,1080975
+2020-06-01,United States,USA,4887398,Diagnostics,Diverted/Unregistered,609690
+2021-02-01,United States,USA,5815135,Personal Protective Equipment,Falsified,928739
+2020-08-01,United States,USA,6252001,Medicines,Diverted/Unregistered,686396
+2020-06-01,United States,USA,6252001,Personal Protective Equipment,Falsified,593883
+2020-03-01,United States,USA,5105262,Personal Protective Equipment,Falsified,506961
+2020-05-01,United States,USA,4335045,Diagnostics,Falsified,581681
+2020-03-01,United States,USA,5103310,Sanitisers & disinfectants,Falsified,482512
+2021-01-01,United States,USA,6252001,Medicines,Substandard,886351
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,682959
+2020-09-01,United States,USA,6252001,Personal Protective Equipment,Substandard,761005
+2020-10-01,United States,USA,5101760,Medicines,Substandard,774525
+2020-08-01,United States,USA,4347778,Diagnostics,Falsified,679888
+2020-10-01,United States,USA,5332921,Personal Protective Equipment,Substandard or Falsified,765212
+2021-01-01,United States,USA,5520993,Sanitisers & disinfectants,Falsified,906822
+2020-10-01,United States,USA,5224151,Personal Protective Equipment,Falsified,768161
+2021-01-01,United States,USA,4155751,Vaccines,Diverted/Unregistered,909211
+2020-04-01,United States,USA,5378538,Personal Protective Equipment,Falsified,515936
+2020-08-01,United States,USA,5551752,Sanitisers & disinfectants,Substandard or Falsified,694090
+2021-01-01,United States,USA,5150529,Personal Protective Equipment,Falsified,911078
+2020-10-01,United States,USA,6252001,Personal Protective Equipment,Falsified,758727
+2021-01-01,United States,USA,4299276,Medicines,Diverted/Unregistered,912017
+2020-06-01,United States,USA,4335045,Diagnostics,Falsified,619366
+2020-08-01,United States,USA,5192726,Diagnostics,Falsified,679801
+2020-04-01,United States,USA,5419384,Diagnostics,Diverted/Unregistered,530299
+2020-10-01,United States,USA,6252001,Personal Protective Equipment,Falsified,755069
+2020-12-01,United States,USA,6252001,Personal Protective Equipment,Falsified,838504
+2020-10-01,United States,USA,5811696,Medicines,Falsified,776012
+2020-08-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,686396
+2020-08-01,United States,USA,6252001,Personal Protective Equipment,Diverted/Unregistered,686396
+2020-03-01,United States,USA,5128638,Personal Protective Equipment,Falsified,506815
+2020-03-01,United States,USA,6252001,Personal Protective Equipment,Falsified,506891
+2020-10-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,749267
+2020-06-01,United States,USA,5128581,Personal Protective Equipment,Falsified,594241
+2020-04-01,United States,USA,4887398,Personal Protective Equipment,Substandard or Falsified,530203
+2020-05-01,United States,USA,5165418,Diagnostics,Falsified,551362
+2021-01-01,United States,USA,6252001,Vaccines,Falsified,902346
+2020-10-01,United States,USA,6252001,Medicines,Falsified,787356
+2021-01-01,United States,USA,5809844,Vaccines,Falsified,904241
+2020-03-01,United States,USA,5368361,Diagnostics,Falsified,524168
+2020-12-01,United States,USA,5368361,Medicines,Falsified,850803
+2021-03-01,United States,USA,5520993,Sanitisers & disinfectants,Falsified,961443
+2020-10-01,United States,USA,6252001,Medicines,Substandard,755157
+2020-04-01,United States,USA,5549222,Vaccines,Falsified,549794
+2020-04-01,United States,USA,4839416,Diagnostics,Diverted/Unregistered,550482
+2020-06-01,United States,USA,6252001,Sanitisers & disinfectants,Falsified,617470
+2020-04-01,United States,USA,4971068,Personal Protective Equipment,Falsified,533620
+2020-12-01,United States,USA,5110302,Vaccines,Substandard or Falsified,830853
+2021-01-01,United States,USA,5520993,Diagnostics,Falsified,906822
+2021-06-01,United States,USA,6252001,Medicines,Falsified,1111214
+2020-04-01,United States,USA,6252001,Medicines,Substandard,530298
+2020-09-01,United States,USA,4791259,Personal Protective Equipment,Falsified,712513
+2021-01-01,United States,USA,6252001,Vaccines,Falsified,877299
+2020-05-01,United States,USA,5368361,Personal Protective Equipment,Falsified,567746
+2020-05-01,United States,USA,5318313,Personal Protective Equipment,Falsified,569358
+2021-03-01,United States,USA,6252001,Sanitisers & disinfectants,Diverted/Unregistered,972321
+2020-10-01,United States,USA,6252001,Personal Protective Equipment,Falsified,757518
+2020-07-01,United States,USA,6252001,Sanitisers & disinfectants,Falsified,645541
+2020-05-01,United States,USA,4243551,Diagnostics,Falsified,551204
+2020-08-01,United States,USA,5481136,Sanitisers & disinfectants,Substandard or Falsified,694090
+2021-01-01,United States,USA,5001836,Vaccines,Substandard,900582
+2020-05-01,United States,USA,6252001,Medicines,Falsified,573362
+2020-05-01,United States,USA,5690694,Diagnostics,Substandard or Falsified,574088
+2021-03-01,United States,USA,5520993,Personal Protective Equipment,Falsified,961443
+2020-01-01,United States,USA,6252001,Medicines,Substandard,435578
+2021-07-01,United States,USA,6252001,Personal Protective Equipment,Substandard,1160268
+2020-05-01,United States,USA,5520993,Personal Protective Equipment,Diverted/Unregistered,576192
+2020-05-01,United States,USA,5490374,Diagnostics,Falsified,576192
+2020-12-01,United States,USA,6252001,Medicines,Substandard,840715
+2021-04-01,United States,USA,6252001,Medicines,Substandard,1071719
+2020-03-01,United States,USA,4917592,Medicines,Falsified,488165
+2020-07-01,United States,USA,4299276,Vaccines,Falsified,646267
+2020-09-01,United States,USA,4887398,Diagnostics,Falsified,740485
+2020-07-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,647060
+2020-04-01,United States,USA,4931429,Personal Protective Equipment,Falsified,551277
+2020-03-01,United States,USA,4887479,Diagnostics,Falsified,491485
+2021-06-01,United States,USA,5381396,Diagnostics,Diverted/Unregistered,1094616
+2021-03-01,United States,USA,6252001,Personal Protective Equipment,Falsified,961443
+2020-09-01,United States,USA,6252001,Medicines,Diverted/Unregistered,713833
+2021-05-01,United States,USA,5039978,Vaccines,Diverted/Unregistered,1057163
+2020-06-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,593984
+2020-06-01,United States,USA,6252001,Diagnostics,Falsified,593984
+2021-09-01,United States,USA,5165418,Personal Protective Equipment,Falsified,1223601
+2020-03-01,United States,USA,6252001,Vaccines,Falsified,497263
+2020-07-01,United States,USA,6252001,Medicines,Substandard,659370
+2020-05-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,992840
+2020-07-01,United States,USA,5368361,Medicines,Diverted/Unregistered,664310
+2021-03-01,United States,USA,6252001,Vaccines,Falsified,965729
+2022-01-01,United States,USA,6252001,Diagnostics,Substandard,1385066
+2020-05-01,United States,USA,5393212,Diagnostics,Substandard or Falsified,589528
+2020-10-01,United States,USA,5520993,Medicines,Falsified,760484
+2020-06-01,United States,USA,4180439,Diagnostics,Substandard,614634
+2021-01-01,United States,USA,4736286,Vaccines,Diverted/Unregistered,903988
+2021-04-01,United States,USA,5417598,Vaccines,Substandard,1021500
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,679232
+2020-08-01,United States,USA,4140963,Diagnostics,Diverted/Unregistered,679747
+2020-09-01,United States,USA,5101760,Medicines,Substandard,736772
+2020-08-01,United States,USA,4347778,Medicines,Falsified,679888
+2020-06-01,United States,USA,4560349,Personal Protective Equipment,Diverted/Unregistered,593984
+2020-10-01,United States,USA,5191803,Personal Protective Equipment,Falsified,757518
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,680774
+2022-02-01,United States,USA,6252001,Sanitisers & disinfectants,Falsified,1398834
+2021-09-01,United States,USA,5389489,Medicines,Falsified,1269412
+2021-06-01,United States,USA,4699066,Personal Protective Equipment,Falsified,1110592
+2021-10-01,United States,USA,6252001,Medicines,Diverted/Unregistered,1270534
+2020-10-01,United States,USA,6252001,Vaccines,Falsified,787356
+2020-06-01,United States,USA,4347778,Diagnostics,Falsified,598640
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,686003
+2020-05-01,United States,USA,6252001,Vaccines,Falsified,578176
+2020-08-01,United States,USA,4347778,Personal Protective Equipment,Falsified,686396
+2021-10-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,1270534
+2020-06-01,United States,USA,5017822,Personal Protective Equipment,Diverted/Unregistered,600120
+2020-06-01,United States,USA,4347778,Medicines,Diverted/Unregistered,593984
+2022-02-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,1412835
+2020-05-01,United States,USA,4335045,Personal Protective Equipment,Falsified,581681
+2020-10-01,United States,USA,6252001,Medicines,Falsified,786684
+2021-06-01,United States,USA,4155751,Sanitisers & disinfectants,Substandard,1093504
+2021-06-01,United States,USA,4297983,Personal Protective Equipment,Falsified,1094690
+2020-05-01,United States,USA,6252001,Personal Protective Equipment,Substandard,582468
+2020-05-01,United States,USA,5419384,Personal Protective Equipment,Substandard,584025
+2021-02-01,United States,USA,4574324,Personal Protective Equipment,Substandard,930832
+2021-02-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,931281
+2020-04-01,United States,USA,4361885,Diagnostics,Diverted/Unregistered,530299
+2020-05-01,United States,USA,4641239,Diagnostics,Falsified,585805
+2021-04-01,United States,USA,4955336,Personal Protective Equipment,Falsified,1007639
+2020-06-01,United States,USA,4544379,Personal Protective Equipment,Substandard,600120
+2020-06-01,United States,USA,4335045,Personal Protective Equipment,Falsified,610906
+2020-10-01,United States,USA,5101760,Medicines,Substandard,757820
+2021-02-01,United States,USA,4168773,Vaccines,Diverted/Unregistered,936924
+2020-06-01,United States,USA,4736286,Diagnostics,Substandard,614170
+2021-01-01,United States,USA,4171563,Vaccines,Diverted/Unregistered,936941
+2020-05-01,United States,USA,5128581,Personal Protective Equipment,Falsified,566171
+2020-06-01,United States,USA,6252001,Sanitisers & disinfectants,Falsified,614836
+2020-04-01,United States,USA,5368361,Diagnostics,Diverted/Unregistered,530299
+2020-04-01,United States,USA,6252001,Medicines,Diverted/Unregistered,530361
+2020-11-01,United States,USA,4179574,Medicines,Substandard,814170
+2020-08-01,United States,USA,5192726,Medicines,Falsified,679801
+2021-10-01,United States,USA,6252001,Diagnostics,Substandard,1254012
+2021-02-01,United States,USA,4634946,Vaccines,Diverted/Unregistered,943453
+2021-10-01,United States,USA,4990729,Personal Protective Equipment,Falsified,1261977
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Diverted/Unregistered,707279
+2020-06-01,United States,USA,4887479,Personal Protective Equipment,Falsified,617819
+2020-07-01,United States,USA,5116815,Sanitisers & disinfectants,Substandard,647620
+2020-07-01,United States,USA,4726206,Personal Protective Equipment,Substandard or Falsified,647786
+2020-12-01,United States,USA,4508722,Personal Protective Equipment,Falsified,882079
+2020-10-01,United States,USA,6252001,Diagnostics,Falsified,786684
+2020-08-01,United States,USA,6254927,Medicines,Falsified,683102
+2020-09-01,United States,USA,6252001,Personal Protective Equipment,Substandard or Falsified,712648
+2021-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,1208377
+2020-06-01,United States,USA,4347778,Personal Protective Equipment,Diverted/Unregistered,624639
+2021-05-01,United States,USA,4515843,Personal Protective Equipment,Falsified,1051017
+2020-06-01,United States,USA,4699066,Diagnostics,Falsified,626677
+2021-11-01,United States,USA,6252001,Diagnostics,Substandard,1284248
+2020-06-01,United States,USA,4508722,Diagnostics,Falsified,628266
+2021-02-01,United States,USA,4398678,Medicines,Falsified,926267
+2020-05-01,United States,USA,4259418,Diagnostics,Falsified,551209
+2021-02-01,United States,USA,5318313,Vaccines,Substandard,956586
+2020-05-01,United States,USA,5358705,Diagnostics,Falsified,601700
+2020-06-01,United States,USA,5165418,Personal Protective Equipment,Falsified,601877
+2020-06-01,United States,USA,4049979,Diagnostics,Diverted/Unregistered,602903
+2020-04-01,United States,USA,4236895,Personal Protective Equipment,Falsified,554265
+2021-11-01,United States,USA,6254926,Sanitisers & disinfectants,Falsified,1304086
+2021-05-01,United States,USA,5018651,Vaccines,Diverted/Unregistered,1057163
+2020-05-01,United States,USA,5134086,Diagnostics,Falsified,556139
+2020-12-01,United States,USA,5037779,Personal Protective Equipment,Falsified,858111
+2020-05-01,United States,USA,4347778,Diagnostics,Diverted/Unregistered,563221
+2020-05-01,United States,USA,5192726,Medicines,Diverted/Unregistered,564727
+2021-02-01,United States,USA,4508722,Medicines,Falsified,936346
+2020-04-01,United States,USA,4508722,Personal Protective Equipment,Falsified,539880
+2020-06-01,United States,USA,6252001,Personal Protective Equipment,Falsified,602903
+2020-05-01,United States,USA,5332921,Diagnostics,Diverted/Unregistered,566076
+2020-07-01,United States,USA,4831725,Diagnostics,Substandard,678079
+2020-05-01,United States,USA,5110629,Medicines,Diverted/Unregistered,566171
+2020-12-01,United States,USA,5308655,Personal Protective Equipment,Falsified,867638
+2021-03-01,United States,USA,4887398,Personal Protective Equipment,Falsified,967494
+2020-07-01,United States,USA,4929399,Sanitisers & disinfectants,Substandard,642660
+2020-05-01,United States,USA,5110629,Diagnostics,Falsified,566171
+2022-02-01,United States,USA,4299276,Medicines,Diverted/Unregistered,1394224
+2022-02-01,United States,USA,4259418,Medicines,Diverted/Unregistered,1396572
+2022-01-01,United States,USA,5128581,Vaccines,Falsified,1349246
+2021-07-01,United States,USA,6252001,Personal Protective Equipment,Falsified,1160268
+2020-05-01,United States,USA,5128581,Personal Protective Equipment,Falsified,572257
+2020-08-01,United States,USA,5729485,Medicines,Diverted/Unregistered,707393
+2020-11-01,United States,USA,6252001,Medicines,Falsified,827230
+2020-10-01,United States,USA,6252001,Personal Protective Equipment,Falsified,786684
+2022-01-01,United States,USA,6252001,Diagnostics,Substandard,1358463
+2021-03-01,United States,USA,4990729,Vaccines,Diverted/Unregistered,981668
+2020-07-01,United States,USA,5551752,Sanitisers & disinfectants,Substandard or Falsified,652175
+2021-01-01,United States,USA,5110629,Personal Protective Equipment,Substandard or Falsified,886689
+2022-01-01,United States,USA,4335045,Personal Protective Equipment,Falsified,1363062
+2021-05-01,United States,USA,4347778,Vaccines,Substandard,1071640
+2021-03-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,991177
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,687231
+2021-03-01,United States,USA,4236895,Vaccines,Diverted/Unregistered,992152
+2020-08-01,United States,USA,4915545,Medicines,Diverted/Unregistered,686396
+2020-07-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,664315
+2020-07-01,United States,USA,4662168,Sanitisers & disinfectants,Substandard,665628
+2020-06-01,United States,USA,4347778,Medicines,Falsified,593984
+2021-02-01,United States,USA,4641239,Vaccines,Diverted/Unregistered,957718
+2020-04-01,United States,USA,4160021,Personal Protective Equipment,Falsified,530144
+2020-06-01,United States,USA,6252001,Medicines,Falsified,593984
+2021-08-01,United States,USA,6252001,Medicines,Falsified,1182127
+2021-08-01,United States,USA,4299276,Diagnostics,Falsified,1179830
+2021-01-01,United States,USA,5110629,Diagnostics,Substandard or Falsified,886689
+2020-08-01,United States,USA,5309842,Medicines,Falsified,694649
+2021-01-01,United States,USA,5393015,Vaccines,Substandard,897789
+2020-08-01,United States,USA,5279468,Sanitisers & disinfectants,Substandard or Falsified,675623
+2020-10-01,United States,USA,4634946,Medicines,Falsified,756371
+2021-04-01,United States,USA,4347778,Vaccines,Substandard,1011051
+2020-03-01,United States,USA,5746545,Diagnostics,Falsified,529724
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,677798
+2021-01-01,United States,USA,4150673,Vaccines,Diverted/Unregistered,936933
+2021-04-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,1041850
+2021-10-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,1242074
+2021-06-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,1084734
+2021-08-01,United States,USA,6252001,Personal Protective Equipment,Substandard,1192621
+2020-10-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,757518
+2020-11-01,United States,USA,6252001,Medicines,Diverted/Unregistered,815477
+2020-08-01,United States,USA,5128581,Medicines,Substandard,705051
+2021-04-01,United States,USA,4699066,Personal Protective Equipment,Falsified,1023154
+2022-01-01,United States,USA,6252001,Ventilation & oxygenation equipment and consumables,Substandard,1398682
+2020-08-01,United States,USA,4361885,Sanitisers & disinfectants,Diverted/Unregistered,705838
+2022-01-01,United States,USA,4393217,Medicines,Substandard,1352529
+2021-05-01,United States,USA,5108193,Vaccines,Substandard,1067060
+2020-05-01,United States,USA,4335045,Sanitisers & disinfectants,Falsified,581681
+2021-03-01,United States,USA,6252001,Sanitisers & disinfectants,Falsified,961443
+2020-07-01,United States,USA,6252001,Diagnostics,Substandard,666407
+2022-02-01,United States,USA,4436296,Personal Protective Equipment,Substandard,1404932
+2020-08-01,United States,USA,5192726,Personal Protective Equipment,Falsified,679801
+2020-08-01,United States,USA,4915545,Diagnostics,Diverted/Unregistered,686396
+2021-06-01,United States,USA,6252001,Medicines,Substandard,1090519
+2022-02-01,United States,USA,4099753,Personal Protective Equipment,Substandard,1404932
+2020-08-01,United States,USA,4347778,Personal Protective Equipment,Falsified,679888
+2020-08-01,United States,USA,6252001,Personal Protective Equipment,Falsified,687581
+2020-09-01,United States,USA,4074267,Diagnostics,Falsified,719163
+2022-02-01,United States,USA,6252001,Ventilation & oxygenation equipment and consumables,Substandard,1418955
+2021-02-01,United States,USA,8436085,Medicines,Diverted/Unregistered,928775
+2021-06-01,United States,USA,5332921,Personal Protective Equipment,Falsified,1093443
+2020-11-01,United States,USA,6252001,Vaccines,Diverted/Unregistered,835199
+2020-12-01,United States,USA,6252001,Medicines,Falsified,865867
+2020-09-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,713833
+2022-03-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,1424695
+2021-03-01,United States,USA,4347778,Vaccines,Substandard,1000915
+2020-04-01,United States,USA,4160021,Medicines,Falsified,530144
+2020-09-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,723812
+2020-06-01,United States,USA,5122732,Personal Protective Equipment,Falsified,610033
+2020-06-01,United States,USA,4341513,Personal Protective Equipment,Falsified,610906
+2021-09-01,United States,USA,5567477,Personal Protective Equipment,Substandard,1232067
+2022-03-01,United States,USA,6252001,Medicines,Substandard,1438852
+2020-12-01,United States,USA,6252001,Medicines,Substandard,862732
+2020-08-01,United States,USA,5809844,Medicines,Substandard or Falsified,699470
+2020-04-01,United States,USA,4160021,Diagnostics,Falsified,530144
+2021-07-01,United States,USA,4508722,Medicines,Diverted/Unregistered,1160270
+2020-07-01,United States,USA,5481136,Sanitisers & disinfectants,Substandard or Falsified,638252
+2020-06-01,United States,USA,4826850,Personal Protective Equipment,Falsified,614954
+2021-10-01,United States,USA,6252001,Medicines,Substandard,1247381
+2020-05-01,United States,USA,5128581,Medicines,Diverted/Unregistered,566171
+2021-02-01,United States,USA,4508722,Personal Protective Equipment,Falsified,969460
+2020-10-01,United States,USA,6252001,Medicines,Diverted/Unregistered,757518
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,704243
+2020-12-01,United States,USA,5391811,Diagnostics,Falsified,842418
+2021-03-01,United States,USA,6252001,Medicines,Substandard,975669
+2020-11-01,United States,USA,6252001,Diagnostics,Falsified,815477
+2021-10-01,United States,USA,6252001,Personal Protective Equipment,Falsified,1263794
+2021-02-01,United States,USA,5549222,Personal Protective Equipment,Falsified,944494
+2021-01-01,United States,USA,5368361,Diagnostics,Substandard,893142
+2021-02-01,United States,USA,4560349,Personal Protective Equipment,Falsified,930096
+2022-02-01,United States,USA,4829764,Personal Protective Equipment,Substandard,1404932
+2022-02-01,United States,USA,4662168,Personal Protective Equipment,Substandard,1404932
+2020-07-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,666111
+2020-09-01,United States,USA,6252001,Medicines,Falsified,713833
+2021-02-01,United States,USA,6252001,Vaccines,Falsified,950068
+2022-01-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,1362816
+2020-07-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,631846
+2021-10-01,United States,USA,6252001,Personal Protective Equipment,Falsified,1270534
+2020-05-01,United States,USA,6252001,Personal Protective Equipment,Substandard or Falsified,564916
+2020-06-01,United States,USA,4514282,Diagnostics,Falsified,628835
+2020-12-01,United States,USA,4508722,Personal Protective Equipment,Falsified,845172
+2021-03-01,United States,USA,6252001,Medicines,Substandard,978339
+2021-01-01,United States,USA,4396862,Vaccines,Substandard,900582
+2020-06-01,United States,USA,6252001,Personal Protective Equipment,Falsified,593984
+2020-12-01,United States,USA,5279468,Vaccines,Substandard,895651
+2021-10-01,United States,USA,6252001,Diagnostics,Substandard,1242382
+2022-02-01,United States,USA,4138106,Personal Protective Equipment,Falsified,1391384
+2020-04-01,United States,USA,4482348,Diagnostics,Diverted/Unregistered,530299
+2021-12-01,United States,USA,6252001,Medicines,Substandard,1308398
+2021-02-01,United States,USA,5392900,Medicines,Falsified,931627
+2020-09-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,724196
+2022-02-01,United States,USA,5815135,Personal Protective Equipment,Falsified,1398672
+2020-06-01,United States,USA,6252001,Medicines,Diverted/Unregistered,602903
+2021-01-01,United States,USA,5037779,Medicines,Diverted/Unregistered,900515
+2020-06-01,United States,USA,4347778,Personal Protective Equipment,Falsified,593984
+2020-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard or Falsified,689343
+2020-11-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,807738
+2021-03-01,United States,USA,6252001,Medicines,Diverted/Unregistered,966343
+2021-01-01,United States,USA,5037649,Personal Protective Equipment,Falsified,895344
+2021-05-01,United States,USA,4971068,Personal Protective Equipment,Falsified,1063771
+2021-05-01,United States,USA,5815135,Vaccines,Diverted/Unregistered,1043734
+2021-10-01,United States,USA,5551752,Medicines,Falsified,1243693
+2022-02-01,United States,USA,4331987,Personal Protective Equipment,Substandard,1404932
+2020-06-01,United States,USA,4560349,Personal Protective Equipment,Diverted/Unregistered,624639
+2020-05-01,United States,USA,5358705,Sanitisers & disinfectants,Falsified,601700
+2021-09-01,United States,USA,6252001,Medicines,Substandard,1213635
+2021-06-01,United States,USA,6252001,Ventilation & oxygenation equipment and consumables,Substandard,1120503
+2021-09-01,United States,USA,4299276,Medicines,Diverted/Unregistered,1232390
+2020-06-01,United States,USA,6252001,Diagnostics,Diverted/Unregistered,602903
+2021-02-01,United States,USA,5809844,Personal Protective Equipment,Falsified,957577
+2020-05-01,United States,USA,5520993,Sanitisers & disinfectants,Diverted/Unregistered,576192
+2020-12-01,United States,USA,5037779,Sanitisers & disinfectants,Substandard,867578
+2021-09-01,United States,USA,4990729,Personal Protective Equipment,Falsified,1237228
+2020-07-01,United States,USA,5308878,Sanitisers & disinfectants,Substandard or Falsified,652175
+2021-01-01,United States,USA,4508722,Medicines,Substandard or Falsified,890267
+2020-03-01,United States,USA,6252001,Diagnostics,Falsified,529643
+2022-01-01,United States,USA,4930956,Personal Protective Equipment,Falsified,1382293
+2021-04-01,United States,USA,4149962,Vaccines,Diverted/Unregistered,1013423
+2021-08-01,United States,USA,6252001,Sanitisers & disinfectants,Substandard,1186717
+2020-06-01,United States,USA,4347778,Personal Protective Equipment,Diverted/Unregistered,593984
+2020-11-01,United States,USA,6252001,Medicines,Diverted/Unregistered,835199
+2021-02-01,United States,USA,5323163,Vaccines,Substandard,933403
+2021-02-01,United States,USA,5125125,Personal Protective Equipment,Falsified,934549
+2021-07-01,United States,USA,6252001,Medicines,Substandard,1131542
+2020-11-01,United States,USA,6252001,Personal Protective Equipment,Diverted/Unregistered,815477
+2021-10-01,United States,USA,4891382,Diagnostics,Diverted/Unregistered,1292739
+2021-02-01,United States,USA,4971068,Personal Protective Equipment,Falsified,937169
+2021-06-01,United States,USA,5332921,Sanitisers & disinfectants,Substandard,1095799
+2020-09-01,United States,USA,4887479,Personal Protective Equipment,Substandard or Falsified,727707
+2022-02-01,United States,USA,4398678,Personal Protective Equipment,Substandard,1404932
+2021-01-01,United States,USA,5520993,Personal Protective Equipment,Falsified,906822
+2020-09-01,United States,USA,6252001,Personal Protective Equipment,Falsified,728784
+2021-04-01,United States,USA,4887398,Vaccines,Diverted/Unregistered,1043609
